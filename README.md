@@ -1,3 +1,6 @@
+> [!WARNING]
+> I'm not using Discord anymore because of privacy concerns. So my plugins are unmaintained and provided "as is". Feel free to fork, fix, improve, etc...
+
 # VoiceChatUtilities
 
 Allows you to perform multiple actions on an entire channel (move, mute, disconnect, etc.)
